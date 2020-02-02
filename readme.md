@@ -10,7 +10,7 @@ var DWDisHard=true;
 
 ## About
 
-This project is a web page to check the status of waste sorting at ITP pantry. There are three bins: the big bin (for west studio trash only),recycle bin for paper and plastic and the covered trash can for food. The status of those three bins can be checked through the URL in my page, but now it is only static image I took. And I will update those image at the end of the day since I already learned how to develop and deploy my project! =<
+This project is a web page to check the status of waste sorting at ITP pantry. There are three bins: the big bin (for west studio trash only),recycle bin for paper and plastic and the covered trash can for food. The status of those three bins can be checked through the URL in my page, but now it is only static image I took. And I will update images about those bins since I already learned how to develop and deploy my project! =<
 
 ## Notes & Process
 
