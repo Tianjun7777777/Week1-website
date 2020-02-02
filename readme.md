@@ -3,6 +3,7 @@
 
 > I am just notes for markdown :)
 
+ctrl+shift+m to open the sidebar.
 ```js
 code here
 var DWDisHard=true;
